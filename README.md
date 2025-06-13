@@ -49,4 +49,4 @@ This project uses machine learning to predict the outcomes of UEFA Champions Lea
 * Deploy as a web app using Streamlit or Flask
 * Add player-level features and injury data
 
-# thank you fbref.com for not blocking me from your website too many times
+thank you fbref.com for not blocking me from your website too many times
